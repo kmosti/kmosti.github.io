@@ -30,14 +30,20 @@ There are a few lines that need to be changed in the following html file. I reco
 E:\Program Files\VirtualWorks\ViaWorks\RestService\Resources\Application\WebClient\Templates\Standard.html
 
 Copy the line containing this node:
-	<img ng-src="{{'resource/brand/image'|viaworksRestApiUrl}}"  height="32" width="32" />
+
+`<img ng-src="{{'resource/brand/image'|viaworksRestApiUrl}}"  height="32" width="32" />`
+
 and modify it like this:
-	<img ng-src="{{'resource/template/icon/32x32_logo_filename.png'|viaworksRestApiUrl}}"  height="32" width="32" />
+
+`<img ng-src="{{'resource/template/icon/32x32_logo_filename.png'|viaworksRestApiUrl}}"  height="32" width="32" />`
 
 Copy the line containing this node:
-	<img ng-src="{{'resource/brand/image/product'|viaworksRestApiUrl}}"/>
+
+`<img ng-src="{{'resource/brand/image/product'|viaworksRestApiUrl}}"/>`
+
 and modify it like this:
-	<img ng-src="{{'resource/template/icon/220x220_logo_filename.png'|viaworksRestApiUrl}}"/>
+
+`<img ng-src="{{'resource/template/icon/220x220_logo_filename.png'|viaworksRestApiUrl}}"/>`
 
 ![Edit the template file](/images/viaworks-logo/4-edits.png)
 

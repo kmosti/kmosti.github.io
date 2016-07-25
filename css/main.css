@@ -1,5 +1,5 @@
 footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,4 +20,13 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
 }

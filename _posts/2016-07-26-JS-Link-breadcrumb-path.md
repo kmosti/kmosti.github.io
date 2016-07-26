@@ -70,7 +70,7 @@ Next, in the tool pane under "Miscellaneous", paste the link to the JS file, whi
 
 ~sitecollections/siteassets/Parse_Folder.js
 
-<img src="/images/JS-link-folderpath/4-edit-webpart.png.png" class="img-responsive" alt="Tool Pane configuration">
+<img src="/images/JS-link-folderpath/4-edit-webpart.png" class="img-responsive" alt="Tool Pane configuration">
 
 Click OK and save/publish your page
 

@@ -1,2 +1,5 @@
 name: Kristian Mosti, SharePoint Zealot
 markdown: kramdown
+paginate: 10
+gems:
+  - jekyll-sitemap

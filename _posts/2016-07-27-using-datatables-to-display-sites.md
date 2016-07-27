@@ -50,7 +50,7 @@ Once that is done, you might want to do something else for an hour or so (it too
 
 To check if you can proceed, we need to check if the properties are available in the SharePoint search schema as a crawled property.
 
-Go to https://TENNAT-admin.sharepoint.com/ -> search -> Manage Search Schema -> Crawled Properties
+Go to https://TENNANT-admin.sharepoint.com/ -> search -> Manage Search Schema -> Crawled Properties
 
 Next do a search for one of the properties, e.g. "ProjectShortName", if it's been picked up by SP, you should see this result:
 <img src="/images/datatables-spsearch/2-crawled-property.png" class="img-responsive" alt="crawled-property">
@@ -108,3 +108,14 @@ Click OK, then save/publish your page.
 If you have now done everything correctly, you should now see this as a result:
 
 <img src="/images/datatables-spsearch/11-success.png" class="img-responsive" alt="success">
+
+And that's it really!
+
+Some of the cool things about this approach is that you can actually display thousands of sites this way and it will be fast thanks to the very fast response from the search REST API, the code will also loop through the result set so that there really is not a set limit on how many sites you can display in one table.
+Since search results are also security trimmed, you will always be able to open the links in the table, and sites you do not have access to will not be displayed.
+
+With datatables, you get a bunch of functionality built right into the solution - the filtering (search) is especially nice, and I've also added date handling (using moment.js) and sorting in the JS file so that you can select to sort by it and have the most recently changed sites on top.
+
+You should also definitely check out the [datatables.net](https://datatables.net/) homepage, blog and forums for more stuff you can do with datatables, like [multi-column ordering](https://datatables.net/release-datatables/examples/basic_init/multi_col_sort.html) , [language options] or [other cool stuff](https://datatables.net/examples/) - if you do get some cool ideas, please drop me a line in the comments below and tell me more!
+
+I hope that this post has been somewhat informative and appreciate your feedback.

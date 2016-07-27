@@ -116,6 +116,6 @@ Since search results are also security trimmed, you will always be able to open 
 
 With datatables, you get a bunch of functionality built right into the solution - the filtering (search) is especially nice, and I've also added date handling (using moment.js) and sorting in the JS file so that you can select to sort by it and have the most recently changed sites on top.
 
-You should also definitely check out the [datatables.net](https://datatables.net/) homepage, blog and forums for more stuff you can do with datatables, like [multi-column ordering](https://datatables.net/release-datatables/examples/basic_init/multi_col_sort.html) , [language options] or [other cool stuff](https://datatables.net/examples/) - if you do get some cool ideas, please drop me a line in the comments below and tell me more!
+You should also definitely check out the [datatables.net](https://datatables.net/) homepage, blog and forums for more stuff you can do with datatables, like [multi-column ordering](https://datatables.net/release-datatables/examples/basic_init/multi_col_sort.html) , [language options](https://datatables.net/examples/basic_init/language.html) or [other cool stuff](https://datatables.net/examples/) - if you do get some cool ideas, please drop me a line in the comments below and tell me more!
 
 I hope that this post has been somewhat informative and appreciate your feedback.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workflow error: Cannot make a cache safe URL for "15/413/1033/initstrings.js", file not found."
+title: "Workflow error - Cannot make a cache safe URL for 15/413/1033/initstrings.js file not found."
 date: 2016-07-28
 ---
 A strange error occurred to me today when I wanted to add a simple default SharePoint 2010 Approval workflow to a library.

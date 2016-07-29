@@ -69,7 +69,7 @@ As you can see, it will deploy a bunch of page layouts and 3 masterpages in addi
 
 You can also make changes right here, then compress the files back to cab and rename the file to wsp if you want a quick and dirty way of editing a wsp package.
 
-Step 3, deploy your theme
+## Step 3, deploy your theme
 
 1. Navigate to Site settings -> Solutions
 2. Select upload solution, then upload your wsp file
@@ -92,6 +92,6 @@ You should now see that the layout changes, and you can start using your theme -
 
 This is just scratching the surface a bit though, as you can now fully use all the bootstrap functionality within SharePoint - including the grid, the classes, the modals and all other features.
 
-If you go back to the [live preview page on BindTuning](http://bindtuning.com/cms/sharepoint/office-365-v2013/theme/TheBootstrapTheme/page/Default/customize), you will also notice that the preview functions as an interactive documentation on how to use bootstrap features, if you want to e.g. add a slider to your front page, just go to Widgets -> Sliders and select "view code" on the example you want to use.
+If you go back to the [live preview page on BindTuning](http://bindtuning.com/cms/sharepoint/office-365-v2013/theme/TheBootstrapTheme/page/Default/customize), you will notice that the preview functions is an interactive documentation on how to use bootstrap features, if you want to e.g. add a slider to your front page, just go to Widgets -> Sliders and select "view code" on the example you want to use.
 
 This concludes this mini-tutorial, but if you have any questions you can ask them in the comments below or just contact BindTuning themselves.

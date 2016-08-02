@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decreasing ViaWorks resource agressiveness"
+title: "Tuning ViaWorks resource consumption"
 date: 2016-08-02
 ---
 

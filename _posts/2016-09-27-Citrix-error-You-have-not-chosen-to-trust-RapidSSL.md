@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You have not chosen to trust "RapidSSL SHA256 CA - G3", the issuer of the server's security certificate"
+title: "You have not chosen to trust RapidSSL SHA256 CA - G3, the issuer of the server's security certificate"
 date: 2016-09-27
 ---
 

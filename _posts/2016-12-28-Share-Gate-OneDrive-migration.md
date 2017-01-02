@@ -36,6 +36,10 @@ Save it as provision_OneDrive.ps1 and make sure you have your PS execution polic
 
 <script src="https://gist.github.com/kmosti/79fa5d525ba48303d3b86882d69d8018.js"></script>
 
+Once that is in place, run this script to get all text files and provision each one:
+
+<script src="https://gist.github.com/kmosti/726fdc097e6e163abeefbd057ae1521c.js"></script>
+
 With 8000+ sites to provision, I noticed that it took about 2 hours to run this script, and about 24 hours before all sites were provisioned in SharePoint Online, however your mileage may vary so just make sure you confirm that they have all been provisioned before you start your migration process.
 
 

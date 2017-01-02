@@ -87,3 +87,4 @@ Start as many sessions per service account as you need, then sit back and relax 
 
 Here is a screenshot that shows it in action:
 
+<img src="/images/OD-migration/migrating.png" class="img-responsive" alt="running migration">

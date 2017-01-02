@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Share-Gate OneDrive migration"
-date: 2017-02-01
+date: 2017-01-02
 ---
 
 Today's post is all about migration - tenant to tenant migration of OneDrive sites from a SharePoint perspective.

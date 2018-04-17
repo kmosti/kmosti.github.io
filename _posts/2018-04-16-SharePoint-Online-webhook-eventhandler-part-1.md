@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SharePoint Online webhook handler"
+title: "SharePoint Online webhook handler part 1"
 date: 2018-04-16
 ---
 
@@ -107,4 +107,5 @@ The deployment can be made in a variety of ways, but for simple testing, I would
 Follow the wizard, and select the windows option when asked.  
 The application will be deployed by zipping your project folder, then uploading it to your Azure site - you will be notified in the debug console once the deployment is complete - try visiting the site <url>/index to verify that it is running.
 
-END OF PART 1
+END OF PART 1  
+[Part 2](http://spzealot.com/2018/04/17/SharePoint-Online-webhook-eventhandler-part-2.html)
